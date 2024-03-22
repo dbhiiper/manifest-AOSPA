@@ -51,4 +51,8 @@
   <include name="aospa.xml"/>
   <include name="obsolete.xml"/>
 
+
+  <remote  name="github-db"
+                fetch="https://github.com/dbhiiper" />
+
 </manifest>
